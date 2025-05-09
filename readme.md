@@ -6,6 +6,7 @@ I’m a Fullstack Developer with **9+ years** of hands-on experience in building
 
 - **Backend:** Node.js, Python, NestJS  
 - **Frontend:** React.js, Next.js  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
 - **Cloud Platforms:** AWS, Google Cloud Platform  
 - **Web3:** Decentralized apps (DApps)
 - **AI:** Machine Learning Models, AI API Integration
